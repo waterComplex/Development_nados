@@ -12,7 +12,7 @@ console.log(char);
 console.log(ascii);
 console.log(sbstr);
 
-//this also has contains function
+//this also has contains function     
 
 
 //imp
